@@ -28,7 +28,7 @@
     "drizzle-orm": "^0.45.2",
     "postgres": "^3.4.9",
     "resend": "^6.22.0",
-    "stripe": "^22.5.0"
+    "stripe": "^23.0.0"
   },
   "peerDependencies": {
     "hono": "^4.13.3",
@@ -39,8 +39,8 @@
     "@repo/typescript-config": "workspace:*",
     "@types/bun": "^1.4.0",
     "hono": "^4.13.3",
-    "typescript": "~6.0.3",
-    "vitest": "~4.1.11",
+    "typescript": "~7.0.2",
+    "vitest": "~5.0.3",
     "wrangler": "^4.125.0",
     "zod": "^4.4.3"
   }
